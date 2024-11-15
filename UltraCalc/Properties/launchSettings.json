@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UltraCalc (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UltraCalc (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
